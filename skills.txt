@@ -1,0 +1,5 @@
+Базы данных - MySQL
+GIT - GitBush,GitHub
+Тестирование API - Postman
+Перехват трафика - Charles
+
