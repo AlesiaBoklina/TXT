@@ -1,1 +1,11 @@
-
+ID:1
+Title:Footer column headers are not on the same level
+Severiry:Minor
+Environment:Windows 10 64 bit Chrome v98.0.3440
+Precondition:Open site https://qatest-dev.indvp.com
+STR:
+1.Open home page
+2.Scroll down page
+3.Pay attention to the column headings in the footer
+AR:Footer column headers are not on the same level See screenschot
+ER:Column headings on the same level
